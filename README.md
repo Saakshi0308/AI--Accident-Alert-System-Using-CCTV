@@ -1,4 +1,4 @@
-# AI--Accident-Alert-System-Using-CCTV
+# AI-Accident-Alert-System-Using-CCTV
 
 ## Problem Statement
 Delay in accident reporting increases fatality rates.
